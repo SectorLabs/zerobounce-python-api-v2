@@ -7,7 +7,7 @@ with open('README.md', 'r') as fp:
     README = fp.read()
 
 setup(
-    name='zerobounce',
+    name='sl-zerobounce',
     version='0.1.4',
     description='ZeroBounce Python API - https://www.zerobounce.net.',
     author='Tudor Aursulesei',
